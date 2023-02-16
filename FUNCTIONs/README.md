@@ -4,11 +4,11 @@
 
 ### sintax
 
-`
+```
 function sintax(){
 // code
 return;
 
 }
 
-`
+```
