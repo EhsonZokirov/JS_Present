@@ -202,5 +202,7 @@ var foo = () => {
  Recursion - Рекурсия
 </h1>
 <h3 align="center">
+
 ![](./recursion.jpg)
+
 </h3>
