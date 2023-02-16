@@ -6,8 +6,8 @@
 
 <pre>
 
-function sintax(a,b) {
- return a+b;
+function declaration(a,b) {
+ return a + b;
 }
 
 </pre>
