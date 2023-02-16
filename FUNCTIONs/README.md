@@ -184,3 +184,8 @@ var foo = () => {
 }
 
 </pre>
+----
+----
+----
+# Recursion - Рекурсия
+![](./recursion.jpg)
