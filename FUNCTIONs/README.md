@@ -141,3 +141,46 @@ console.log(a)  // undefined
 var a = 2; // Hoisting
 
 </pre>
+
+---
+
+---
+
+---
+
+# Hoisting - Function Declaration
+
+<pre>
+
+foo();
+
+function foo() {
+    
+    console.log(a); // undefined
+    var a = 2
+
+}
+
+</pre>
+ 
+ ----
+ ----
+ ----
+ # Hoisting – Function Expression
+
+> Объявления функций поднимаются, как мы только что видели.
+Но функциональные выражения — нет.
+
+<pre>
+
+foo();
+
+var foo = () => {
+    
+    console.log(a); // undefined
+    var a = 2
+
+    // ReferenceError
+}
+
+</pre>
