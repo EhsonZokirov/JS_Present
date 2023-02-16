@@ -5,10 +5,9 @@
 ### sintax
 
 <pre>
-function sintax(){
-// code
-return;
 
+function sintax(a,b) {
+ return a+b;
 }
 
 </pre>
