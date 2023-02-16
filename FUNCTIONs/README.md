@@ -127,5 +127,5 @@ foo(2) // 2, 4, 12
 # Hoisting  - Variable
 
 > a = 2;
-var a;
-console.log(a) // 2 
+> var a;
+>console.log(a) // 2 
