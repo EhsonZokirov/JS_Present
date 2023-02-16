@@ -30,3 +30,18 @@ function hoisted() {
 
 
 </pre>
+-----
+-----
+-----
+# Function – Expression
+> Ключевое слово function может использоваться для определения функции внутри выражения.
+## Синтаксис:
+<pre>
+
+const arrow = (a,b) => {
+    return a * b;
+}
+
+console.log(arrow(2,2)) // 4
+
+</pre>
