@@ -35,7 +35,7 @@ function hoisted() {
 -----
 # Function – Expression
 > Ключевое слово function может использоваться для определения функции внутри выражения.
-## Синтаксис:
+## Arrow function:
 <pre>
 
 const arrow = (a,b) => {
@@ -43,5 +43,15 @@ const arrow = (a,b) => {
 }
 
 console.log(arrow(2,2)) // 4
+
+</pre>
+## Anonymous function:
+<pre>
+
+const anonymous = function (a,b) {
+    return a + b;
+}
+
+console.log(anonymous(5,5))  // 10
 
 </pre>
