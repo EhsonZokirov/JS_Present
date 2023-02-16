@@ -1,4 +1,6 @@
-# Function declaration
+<h1 align='center'>
+ Function declaration
+</h1>
 
 > Функция объявляется с использованием ключевого слова function
 
