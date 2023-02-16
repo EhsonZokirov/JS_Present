@@ -39,9 +39,9 @@ function hoisted() {
 ---
 
 ---
-
-# Function – Expression
-
+<h1 align='center'>
+ Function – Expression
+</h1>
 > Ключевое слово function может использоваться для определения функции внутри выражения.
 
 ## Arrow function:
@@ -73,8 +73,10 @@ console.log(anonymous(5,5))  // 10
 ---
 
 ---
+<h1 align='center'>
 
-# IIFE - Немедленно-Вызовающая функция
+IIFE - Немедленно-Вызовающая функция
+</h1>
 
 > IIFE (Immediately Invoked Function Expression) это JavaScript функция, которая выполняется сразу же после того, как она была определена.
 
@@ -97,8 +99,9 @@ console.log(anonymous(5,5))  // 10
 ---
 
 ---
-
-# Scope – Lexical Scope
+<h1 align='center'>
+    Scope – Lexical Scope
+</h1>
 
 > Лексическая область — это область, которая определена
 > во время лексинга. Иными словами, лексический
@@ -128,8 +131,11 @@ foo(2) // 2, 4, 12
 ---
 
 ---
+<h1 align='center'>
 
-# Hoisting - Variable
+Hoisting - Variable
+
+</h1>
 
 <pre>
 
@@ -149,8 +155,9 @@ var a = 2; // Hoisting
 ---
 
 ---
-
-# Hoisting - Function Declaration
+<h1 align='center'>
+ Hoisting - Function Declaration
+</h1>
 
 <pre>
 
@@ -168,7 +175,9 @@ function foo() {
  ----
  ----
  ----
- # Hoisting – Function Expression
+<h1 align='center'>
+  Hoisting – Function Expression
+</h1>
 
 > Объявления функций поднимаются, как мы только что видели.
 Но функциональные выражения — нет.
@@ -189,5 +198,9 @@ var foo = () => {
 ----
 ----
 ----
-# Recursion - Рекурсия
+<h1 align='center'>
+ Recursion - Рекурсия
+</h1>
+<h3 align="center">
 ![](./recursion.jpg)
+</h3>
