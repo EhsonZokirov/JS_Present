@@ -107,7 +107,7 @@ console.log(anonymous(5,5))  // 10
 > обрабатывает ваше сотрудничество
 
 ## Примеры:
-
+<pre>
 function foo(a){
     var b = a*2
         function bar(c) {
@@ -118,4 +118,5 @@ function foo(a){
 }
 
 foo(2) // 2, 4, 12
+</pre>
 
