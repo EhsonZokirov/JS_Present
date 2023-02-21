@@ -1,2 +1,7 @@
 # JavaScript Present
-> 123456789
+ 
+ - Functions
+
+ - MATH
+ 
+ - STRING 
