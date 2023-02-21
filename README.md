@@ -2,6 +2,6 @@
  
  - Functions
 
- - MATH
+ - MATH ( методы )
  
- - STRING 
+ - STRING ( методы )
