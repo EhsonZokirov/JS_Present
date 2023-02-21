@@ -1,4 +1,8 @@
+<h1 align='center'>
+
 ![](./methods.jpg)
+
+</h1>
 ## CharAt:
 
 Метод charAt() возвращает указанный символ из строки.
