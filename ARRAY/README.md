@@ -1,0 +1,8 @@
+- ARRAY: tasks of array & methods
+- DATE: methods & tasks
+- DOM: events & tasks & forms
+- MATH: methods
+- NUMBER: methods
+- OBJECT: home works
+- STRING: methods
+- TASKS: home works
