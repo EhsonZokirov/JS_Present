@@ -1,0 +1,5 @@
+const x = [1, 2, 3, 4, 5];
+const [y, z, a] = x;
+console.log(y); // 1
+console.log(z); // 2
+console.log(a); // 3
