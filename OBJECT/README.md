@@ -56,4 +56,20 @@
 
 ## Spread:
 
-![](./clone.png)
+## ![](./clone.png)
+
+---
+
+<h1 align="center">THIS :</h1>
+
+> keyword this - ключевое слово this
+
+![](./this.png)
+
+---
+
+<h1 align = "center">
+DATA AND TIME :
+</h1>
+
+
