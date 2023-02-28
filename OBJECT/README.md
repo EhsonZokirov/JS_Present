@@ -34,14 +34,14 @@
  Methods object :
 </h1>
 
-# Object.entries()
+# Object.keys()
 
-![](./entries.png)
+![](./keys.png)
 
 # Object.values()
 
 ![](./values.png)
 
-# Object.keys()
+# Object.entries()
 
-![](./keys.png)
+![](./entries.png)
