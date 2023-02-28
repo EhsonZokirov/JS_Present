@@ -30,14 +30,14 @@
 
 > red - value
 
-<h1 align ="center" style={color:'green'}>
+<h1 align ="center" >
  Methods object :
 </h1>
 
-<h3 align='center'>
-    Object.entries()
-</h3>
+# Object.entries()
 
 ![](./entries.png)
 
-- Object.values()
+# Object.values()
+
+![](./values.png)
