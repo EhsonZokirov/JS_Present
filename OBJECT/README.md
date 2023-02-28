@@ -12,7 +12,7 @@
 ```
 
 <h1 align='center'>
-<img width="350" src="./car.png">
+<img width="350" src="./images/car.png">
 </h1>
 
 <pre>
@@ -36,15 +36,15 @@
 
 # Object.keys()
 
-![](./keys.png)
+![](./images/keys.png)
 
 # Object.values()
 
-![](./values.png)
+![](./images/values.png)
 
 # Object.entries()
 
-## ![](./entries.png)
+## ![](./images/entries.png)
 
 ---
 
@@ -52,11 +52,11 @@
 
 ## Destructing:
 
-![](./destructing.png)
+![](./images/destructing.png)
 
 ## Spread:
 
-## ![](./clone.png)
+## ![](./images/clone.png)
 
 ---
 
@@ -64,7 +64,7 @@
 
 > keyword this - ключевое слово this
 
-![](./this.png)
+![](./images/this.png)
 
 ---
 
@@ -80,7 +80,7 @@ DATA AND TIME :
 > Для создания нового объекта Date нужно вызвать конструктор
 > new Date() с одним из следующих аргументов:
 
-![](./now.png)
+![](./images/now.png)
 
 ```
 Если внутри new Date( ) добавить параметр объект начинает считать с 1 января 1970г UTC +
@@ -96,7 +96,7 @@ new Date(date string)
 
 ```
 
-![](./dateString.png)
+![](./images/dateString.png)
 
 <h1 align="center"> Date and Time: </h1>
 
@@ -108,13 +108,13 @@ new Date(date string)
  new Date ( year, month, day, hours, minutes, second, millisecond )
 </h2>
 
-![](./sort.png)
+![](./images/sort.png)
 
 ```
 Примечание. Если вы передадите только один аргумент, он будет считаться миллисекундами.
 
- Поэтому, чтобы использовать этот формат даты, вы должны передать два аргумента. 
- 
+ Поэтому, чтобы использовать этот формат даты, вы должны передать два аргумента.
+
  В JavaScript месяцы считаются от 0 до 11. Январь равен 0, а декабрь — 11.
 
 ```
