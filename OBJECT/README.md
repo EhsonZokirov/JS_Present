@@ -30,7 +30,7 @@
 
 > red - value
 
-<h1 align ="center" color="red">
+<h1 align ="center" style={color:'green'}>
  Methods object :
 </h1>
 
