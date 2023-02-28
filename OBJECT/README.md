@@ -86,6 +86,12 @@ DATA AND TIME :
 Если внутри new Date( ) добавить параметр объект начинает считать с 1 января 1970г UTC +
 ```
 
-<h2 align="center"> Date and Time: </h2>
+<h1 align="center"> Date and Time: </h1>
 
-# new Date( year, month, day, hours, minutes, second, millisecond )
+<h4 align="center"> 
+ Последовательность не меняется :
+</h4>
+
+<h2 align="center">
+ new Date ( year, month, day, hours, minutes, second, millisecond )
+</h2>
