@@ -17,7 +17,7 @@
 
 <pre>
 
-   let car ={
+   let car = {
     model: 'Range Rover'б
     color: 'Red',
     motor: '3.0 L TDV6',
