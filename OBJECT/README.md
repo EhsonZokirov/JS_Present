@@ -12,7 +12,7 @@
 ```
 
 <h1 align='center'>
-<img width="250" src="./car.png">
+<img width="350" src="./car.png">
 </h1>
 
 <pre>
