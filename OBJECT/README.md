@@ -86,6 +86,17 @@ DATA AND TIME :
 Если внутри new Date( ) добавить параметр объект начинает считать с 1 января 1970г UTC +
 ```
 
+<h1 align='center'>
+new Date(date string)
+</h1>
+
+```
+   new Date — (date string) создает новый объект даты из строки даты. В JavaScript обычно существует три формата ввода даты. Форматы даты ISO Вы можете создать объект даты, передав форматы даты ISO.
+
+```
+![](./dateString.png)
+
+
 <h1 align="center"> Date and Time: </h1>
 
 <h4 align="center"> 
@@ -95,3 +106,5 @@ DATA AND TIME :
 <h2 align="center">
  new Date ( year, month, day, hours, minutes, second, millisecond )
 </h2>
+
+
