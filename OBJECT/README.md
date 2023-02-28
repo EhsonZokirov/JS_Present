@@ -44,4 +44,16 @@
 
 # Object.entries()
 
-![](./entries.png)
+## ![](./entries.png)
+
+---
+
+<h1 align="center"> Destructing & Spread : </h1>
+
+## Destructing:
+
+![](./destructing.png)
+
+## Spread:
+
+![](./clone.png)

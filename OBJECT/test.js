@@ -1,9 +1,4 @@
 const person = { name: "John", age: "20" };
-console.log(Object.keys(person));
-// [ 'name', 'age' ]
-
-
-
-
-
+let clone = { ...person };
+console.log(clone); // { name: 'John', age: '20' }
 
