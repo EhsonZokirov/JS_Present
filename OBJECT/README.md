@@ -41,3 +41,7 @@
 # Object.values()
 
 ![](./values.png)
+
+# Object.keys()
+
+![](./keys.png)
