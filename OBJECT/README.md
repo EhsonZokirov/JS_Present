@@ -20,7 +20,24 @@
    let car = {
     model: 'Range Rover'б
     color: 'Red',
-    motor: '3.0 L TDV6',
    }
 
 </pre>
+
+> car - name object
+
+> color - key
+
+> red - value
+
+<h1 align ="center" color="red">
+ Methods object :
+</h1>
+
+<h3 align='center'>
+    Object.entries()
+</h3>
+
+![](./entries.png)
+
+- Object.values()
