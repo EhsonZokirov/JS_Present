@@ -1,5 +1,5 @@
 <h1 align="center">
- OBJECT & DATE and TIME
+ OBJECT, DATE and TIME
 </h1>
 
 - Destructuring
