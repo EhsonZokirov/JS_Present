@@ -115,3 +115,11 @@ DOM
 - mousedown / mouseup – когда нажали / отжали кнопку мыши на элементе.
 
 - mousemove – при движении мыши.
+
+<h1 align="center">
+ classlist :
+</h1>
+
+- calsslist.add ( String, [String])
+- calsslist.remove ( String, [String])
+- calsslist.toggle ( String, [Boolean])
