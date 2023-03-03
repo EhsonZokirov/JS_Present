@@ -30,7 +30,7 @@
 
 <h1 align="center">
 
-![](./BOM/window.png)
+![](./BOM2/window.png)
 
 </h1>
 
