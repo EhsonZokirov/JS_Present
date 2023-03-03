@@ -120,6 +120,7 @@ DOM
  classlist :
 </h1>
 
-- calsslist.add ( String, [String])
-- calsslist.remove ( String, [String])
-- calsslist.toggle ( String, [Boolean])
+- calsslist.add ( String, [String]) - Добавляет указанные классы к элементу
+- calsslist.remove ( String, [String]) - Удаляет указанные классы из элемента
+- calsslist.toggle ( String, [Boolean]) - Если у элемента нет класса, он добавляет его, иначе удаляет.
+
