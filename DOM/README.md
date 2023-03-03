@@ -56,7 +56,7 @@ window.sayHi();
 ## А здесь мы используем window как объект окна браузера, чтобы узнать его высоту:
 
 ```
-alert(window.innerHeight);ad
+alert(window.innerHeight);
 ```
 
 ---
