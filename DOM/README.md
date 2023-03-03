@@ -56,5 +56,26 @@ window.sayHi();
 ## А здесь мы используем window как объект окна браузера, чтобы узнать его высоту:
 
 ```
-alert(window.innerHeight);
+alert(window.innerHeight);ad
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+<h1 align= "center">
+DOM
+
+( document object modal )
+
+</h1>
